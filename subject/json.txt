@@ -1,0 +1,7 @@
+[{"id":1,"name":"radio","realName":"单选题"},{"id":2,"name":"check","realName":"复选题"},{"id":3,"name":"chapter","realName":"简答题"}]
+
+[{"id":1,"name":"easy","realName":"简单"},{"id":2,"name":"medium","realName":"中等"},{"id":3,"name":"difficult","realName":"难"}]
+
+[{"id":1,"name":"WebUI"},{"id":2,"name":"JavaEE"},{"id":3,"name":"Android"},{"id":4,"name":"IOS"}]
+
+[{"department":{"id":1,"name":"WebUI"},"id":1,"title":"HTML"},{"department":{"id":1,"name":"WebUI"},"id":2,"title":"CSS"},{"department":{"id":1,"name":"WebUI"},"id":3,"title":"Javascript"},{"department":{"id":1,"name":"WebUI"},"id":4,"title":"jQuery"},{"department":{"id":1,"name":"WebUI"},"id":5,"title":"AngularJS"},{"department":{"id":1,"name":"WebUI"},"id":6,"title":"Bootstrap"},{"department":{"id":1,"name":"WebUI"},"id":7,"title":"Ionic"},{"department":{"id":1,"name":"WebUI"},"id":8,"title":"git"},{"department":{"id":2,"name":"JavaEE"},"id":9,"title":"CoreJava"},{"department":{"id":2,"name":"JavaEE"},"id":10,"title":"XML"},{"department":{"id":2,"name":"JavaEE"},"id":11,"title":"Oracle"},{"department":{"id":2,"name":"JavaEE"},"id":12,"title":"JDBC"},{"department":{"id":2,"name":"JavaEE"},"id":13,"title":"Mybatis"},{"department":{"id":2,"name":"JavaEE"},"id":14,"title":"Spring"}]

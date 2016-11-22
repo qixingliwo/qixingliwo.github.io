@@ -1,0 +1,370 @@
+/* CSS Document */
+@import url('header.css');
+@import url('footer.css');
+body{
+	font-family:"微软雅黑"}
+#content{
+	width:800px;
+	margin:0 auto;}
+	/*content左边开始*/
+#left{
+	width:221px;
+	height:250px;
+	float:left;
+	margin-top:15px;
+	margin-left:0;
+	border:2px solid #B80000;}
+#content h2{
+	background-color:#B80000;
+	color:#FFF;
+	padding:10px;
+	text-align:left;}
+#content h3{
+	color:#F00;
+	padding-top:20px;
+	text-align:left;
+	margin-left:15px;}
+
+#left li{
+	text-align:left;
+	line-height:35px;
+	margin-left:15px;
+	border-bottom:1px solid #DD0000;}
+#left li a{
+	color:#F00;
+	font-size:16px;}
+#left li img{
+	margin-right:10px;}
+	/*content 右边开始*/
+#right{
+	width:560px;
+	height:330px;
+	float:right;
+	margin-top:15px;
+	margin-right:0;
+	border:2px solid #B80000;}
+#right table{
+	width:275px;
+	height:210px;
+	margin-left:15px;
+	margin-top:20px;}
+.w1{
+	text-align:left;}
+.w2{
+	text-align:right;}
+	.submit{
+		width:155px;
+		height:30px;
+		background-color:#B80000;
+		border-style:none;
+		color:#FFF;}
+#user{
+	color:#999;
+	background-color:#F0F0F0;}
+	
+	
+	/*卖家中心*/
+#right1{
+	width:560px;
+	float:right;
+	margin-top:15px;
+	margin-right:0;
+	/**/}
+#right1 h4{
+	text-align:left;
+	padding-top:10px;}
+#r2{
+	width:554px;
+	height:225px;
+	border:2px solid #B80000;
+	position:relative;}
+.r1{
+	color:#CE0805;
+	font-size:26px;
+	font-weight:bold;
+	float:left;
+	margin-left:20px;
+	margin-top:20px;}
+.r2{
+	font-size:14px;
+	float:left;
+	margin-left:20px;
+	margin-top:20px;
+	text-align:left;
+	color:#71727D;
+	}
+#su1{
+	width:135px;
+	height:30px;
+	background-color:#B80000;
+	border-style:none;
+	color:#FFF;
+	font-size:16px;
+	position:absolute;
+	top:120px;
+	left:194px;
+	border:1px solid #A38989;}
+		
+#footer{
+	width:800px;}
+	
+	
+/*商品详情*/
+#left2{
+	width:221px;
+	height:495px;
+	float:left;
+	margin-top:15px;
+	margin-left:0;
+	border:2px solid #B80000;}
+#content h2{
+	background-color:#B80000;
+	color:#FFF;
+	padding:10px;
+	text-align:left;}
+ol{
+	list-style:none;
+	border-style:none;}
+#left2 ol  li{
+	float:left;
+	margin-left:10px;
+	margin-top:0;}
+#left2 ul li a{
+	color:#B80000;
+	font-size:16px;}
+#left2 ol  li a{
+	font-size:12px;
+	color:#B80000;}
+#left2  .li1{
+	text-align:left;
+	line-height:35px;
+	margin-left:15px;
+	border-bottom:1px solid #DD0000;}
+#left2 li img{
+	margin-right:10px;}
+	/*content 右边开始*/
+#right2{
+	width:560px;
+	height:495px;
+	float:right;
+	margin-top:15px;
+	margin-right:0;}
+#rig1{
+	width:56opx;}
+#rig1 h3,#rig2-2 h3{
+	text-align:left;
+	color:#000;
+	padding-top:5px;
+	margin-left:0;
+	border-bottom:2px solid #B80000;}
+#rig2{
+	width:56opx;
+	height:295px;
+	margin:15px 0;}
+#rig2-1{
+	width:276px;
+	height:276px;
+	border:2px solid #B80000;
+	float:left;
+	margin-left:0;
+	margin-top:0;}
+#rig2-2{
+	width:280px;
+	height:280px;
+	float:right;
+	margin-right:0;
+	margin-top:0;
+}
+#rig2-2 p{
+	margin-top:20px;
+	text-align:left;
+	margin-left:15px;}
+.p1{
+	line-height:40px;
+	text-align:left;
+	margin-left:15px;}
+#rig3{
+	width:556px;
+	height:70px;
+	border:2px solid #B80000;}
+#rig3 p{
+	background-color:#B80000;
+	color:#FFF;
+	text-align:left;
+	height:30px;
+	line-height:40px;}
+.p2{
+	float:right;
+	margin-left:0;
+	margin-top:0;}
+.p3{
+	line-height:40px;}
+	
+	/*商品展示*/
+#right3{
+	width:556px;
+	height:740px;
+	float:right;
+	margin-top:15px;
+	margin-right:0;
+	border:2px solid #B80000;}
+#right3 p{
+	background-color:#DEDEDE;
+	height:30px;
+	text-align:left;
+	line-height:30px;}
+#right3 img{
+	margin-left:15px;
+	margin-top:5px;}
+.tpwen{
+	width:152px;
+	height:40px;
+	float:left;
+	margin-left:25px;
+	margin-top:5px;}
+.tzuo{
+	width:57px;
+	height:40px;
+	float:left;
+	margin-left:0;
+	margin-top:0;
+	background-image:url(../images/4_16.jpg);}
+.tyou{
+	width:95px;
+	height:40px;
+	float:right;
+	margin-top:0;
+	margin-right:0;}
+.wwz{
+	font-size:14px;}
+.jg{
+	color:#F00;
+	font-size:12px;}
+#db2{
+	width:556px;
+	height:31px;
+	margin-top:12px;
+	background-color:#B80000;}
+#db2 li{
+	display:inline;
+	line-height:31px;
+	color:#FFF;}
+	
+	
+	/*物品发布*/
+#right1-1 p,#right5 p,#right8 p,#left p{
+	background-color:#B80000;
+	color:#FFF;
+	padding:10px;
+	text-align:left;
+	font-size:18px;}
+#right1-1{
+	width:560px;
+	height:440px;
+	float:right;
+	margin-top:15px;
+	margin-right:0;
+	border:2px solid #B80000;}
+#zm1{
+	width:120px;
+	height:386px;
+	float:left;
+	margin-left:0;
+	margin-top:0;}
+.ms,#ms{
+	color:#DD0000;
+	text-align:left;
+	margin-left:10px;
+	line-height:30px;}
+#ms{
+	line-height:110px;}
+#zm2{
+	width:440px;
+	height:386px;
+	float:left;
+	margin-left:0;
+	margin-top:0;}
+#textarea{
+	width:200px;
+	height:110px;
+	margin-top:5px;}
+.ms1{
+	text-align:left;
+	line-height:0px;
+	margin-left:15px;}
+.shearch1{
+	width:150px;
+	height:22px;
+	margin-top:5px;}
+.s11{
+	color:#F00;
+	font-size:12px;}
+#submit3{
+	width:150px;
+	height:30px;
+	color:#FFF;
+	font-size:16px;
+	background-color:#B80000;
+	border-style:none;
+	margin-top:5px;}
+	
+	
+	/*修改密码*/
+#right5{
+	width:556px;
+	height:215px;
+	float:right;
+	margin-top:15px;
+	margin-right:0;
+	border:2px solid #B80000;}
+#right5 #table{
+	width:270px;
+	height:103px;}
+.td1{
+	color:#DD0000;
+	text-align:left;}
+.pwd{
+	width:150px;
+	height:20px;}
+.tj{
+	text-align:right;
+	padding-right:7px;}
+#tj{
+	width:150px;
+	height:30px;
+	background-color:#B80000;
+	border-style:none;
+	color:#FFF;
+	font-size:14px;}
+	
+	/*已发布商品*/
+#right8{
+	width:556px;
+	height:415px;
+	float:right;
+	margin-top:15px;
+	margin-right:0;
+	border:2px solid #B80000;}
+#right8 table{
+	width:545px;
+	height:360px;
+	font-size:14px;
+	margin:5px;
+	border-collapse:collapse;}
+#right8 table td{
+	border:1px solid #660000;}
+#right8 table img{
+	width:80px;
+	height:80px;}
+.cx{
+	width:35px;
+	height:20px;
+	background-color:#B80000;
+	color:#FFF;
+	border-style:none;}
+.tr1{
+	color:#FFF;
+	background-color:#B80000;}
+.tr2{
+	color:#F00;}
+
